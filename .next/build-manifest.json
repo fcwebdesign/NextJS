@@ -1,0 +1,46 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-0d1b80a048d4787e.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/UefnD5BI7mBZJf8nU9z0c/_buildManifest.js",
+    "static/UefnD5BI7mBZJf8nU9z0c/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-5ae059702bc551aa.js",
+      "static/chunks/pages/index-8f7805e9632d58ec.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-5ae059702bc551aa.js",
+      "static/css/06c704af44df031b.css",
+      "static/chunks/pages/_app-54772c170987db80.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-5ae059702bc551aa.js",
+      "static/chunks/pages/_error-a4ba2246ff8fb532.js"
+    ],
+    "/posts/[slug]": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-5ae059702bc551aa.js",
+      "static/chunks/pages/posts/[slug]-0e58df54c304e356.js"
+    ],
+    "/posts/star-wars": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-5ae059702bc551aa.js",
+      "static/chunks/pages/posts/star-wars-af00a766d42bb240.js"
+    ]
+  },
+  "ampFirstPages": []
+}
